@@ -1,0 +1,11 @@
+{
+    "name": "TinyMCE Custom Editor CSS",
+    "author": "Linuxvaman",
+    "email": "medicamin@gmail.com",
+    "website": "https://linuxvaman.ir",
+    "version": "1.0.0",
+    "releaseDate": "2026-08-23",
+    "license": "MIT",
+    "compatible": "3.22",
+    "notes": "Loads your custom CSS file into the TinyMCE editor."
+}

@@ -1,0 +1,6 @@
+{
+    "plugin-data": {
+        "name": "TinyMCE Custom Editor CSS",
+        "description": "Loads your custom CSS file into the TinyMCE editor."
+    }
+}

@@ -1,0 +1,49 @@
+/* 
+* JUST AN EXAMPLE
+* 
+* Style your tinymce editor textarea to match your forontend elements
+* No need to delete browser cache every time you edit this file
+* Close this comment area after final edit
+
+@font-face {
+  font-family: VazirmatnED;
+  src: url("../fonts/Vazirmatn-RD-Regular.woff2")
+    format("woff2");
+}
+
+body {
+    font-family: VazirmatnED;
+}
+
+pre {
+    background: #ebf1f5 !important;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.8em;
+    overflow: auto;
+    max-width: 100%;
+    direction: ltr;
+    text-align: left;
+    word-break: break-all;
+    white-space: pre-wrap;
+    border: 1px solid #bbccdd !important;
+    text-underline-offset: 10px;
+    text-decoration-color: #999;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 1px;
+}
+
+code {
+    font-family: monospace;
+    font-size: 15px;
+    direction: ltr;
+    unicode-bidi: bidi-override;
+    background: #f8f8f8;
+    color: #333;
+}
+
+blockquote {
+    border-right: 5px solid rgba(0, 0, 0, .05);
+    border-left: none !important;
+    background: #f9f9f9;
+}

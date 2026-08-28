@@ -1,0 +1,6 @@
+{
+  "plugin-data": {
+    "name": "استایل TinyMCE",
+    "description": "استایل دلخواه را از فایل editor.css در محیط متن TinyMCE لود می کند"
+  }
+}
