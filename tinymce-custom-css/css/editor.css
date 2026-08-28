@@ -5,16 +5,6 @@
 * No need to delete browser cache every time you edit this file
 * Close this comment area after final edit
 
-@font-face {
-  font-family: VazirmatnED;
-  src: url("../fonts/Vazirmatn-RD-Regular.woff2")
-    format("woff2");
-}
-
-body {
-    font-family: VazirmatnED;
-}
-
 pre {
     background: #ebf1f5 !important;
     font-family: monospace;
